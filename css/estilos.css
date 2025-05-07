@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #5AC6D2;
+    padding: 20px 0;
+    color: white;
+    font-size: 32px;
+}
+
+.container {
+    padding: 20px;
+    margin; 20px;
+}
+
+h2 {
+    color: #333;
+    border-bottom: 2px solid #5AC6D2;
+    padding-bottom: 5px;
+}
+
+p {
+    line-height: 1.5;
+    color: #444;
+}
+
+table {
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 100%;
+    border-radius: 8px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+a {
+    color: #006699;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #004466;
+}
+
+.podcast-list li {
+    margin-bottom: 10px;
+}
+
+marquee a.btn {
+    background-color: #5AC6D2;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 5px;
+    font-weight: bold;
+}
